@@ -1,0 +1,5 @@
+GitHub URL: https://github.com/miltonrgarza/hw-acceptance-unit-test-cycle
+
+Cucumber Log File URL: https://github.com/miltonrgarza/hw-acceptance-unit-test-cycle/blob/master/rottenpotatoes/Garza_Milton_cucumber_log.txt
+
+Rspec Log File URL: https://github.com/miltonrgarza/hw-acceptance-unit-test-cycle/blob/master/rottenpotatoes/Garza_Milton_rspec_log.txt
